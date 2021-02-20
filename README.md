@@ -7,6 +7,11 @@ Data Source: https://electionstudies.org/data-center/
 
 This study evaluates the relationship between racial resentment and support for President Donald Trump in the 2020 pre-election survey by the AMerican National Election Studies. 
 
+Result Summary: After accounting for demographic data and views on a wide range of issues, my analysis finds that racial resentment against minorities are strongly associated with support for Trump. Whether these issues are the primary driver for Trump’s support is unclear. Intention of the voter is difficult to establish. However, my analysis corroborates the importance of racial resentment, economic frustrations, and controversial issues such as abortion rights for Trump supporters. 
+
+![alt text](https://github.com/rasim321/Populism-Study-with-ANES-data/blob/master/Results.JPG?raw=true)
+
+
 Response Variable: Support for Donald Trump over Joe Biden
 Predictor Variables: 
 
@@ -35,9 +40,6 @@ Single-Issue-
 Racial Resentment-
 * Racial Resentment Towards African Americans
 * Anti-Immigration Views
-
-
-
 
 
 
