@@ -239,7 +239,7 @@ summary(model4)
 
 #Model 5: Demographics + Ideology + Frustrations + Single-Issue + Racial Resentment/Anti-immigration
 
-model5 <- glm(trump20a ~ age + sex + income + college + latin + white + black +
+model5 <- glm(trump20a ~ age + sex + income + educ + latin + white + black +
                 partisan + lcself + rural_resent + econ + taxecon + covid_nw + 
                 affact + diversity7 + abort2 + race_resent + antimig, data = fm, family = binomial)
 
