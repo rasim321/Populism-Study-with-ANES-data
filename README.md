@@ -1,6 +1,6 @@
 ## Populism-Study-with-ANES-data
 
-# Explaining the Trump Vote: Does Racial Resentment Drive Support for Trump?
+# Explaining the Trump Vote: The Role of Racial Resentment
 # Dec 2020
 
 **American National Election Studies (ANES) - July 2020 Survey**
